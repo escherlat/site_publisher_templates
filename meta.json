@@ -1,0 +1,27 @@
+{
+	"information": {
+		"id": "hyperspace",
+		"name": "Hyperspace is Awesome",
+		"description": "A multi-dimensional experience",
+		"preview_image_path": "images/preview.png"
+		},
+		"fields": [{
+			"id": "page_title",
+			"label": "Site Title",
+			"type": "text",
+			"placeholder": "Provide a title for your site"
+			},
+			{
+				"id": "main",
+				"label": "Introduction",
+				"type": "text",
+				"placeholder": "What is your site about?"
+			},
+			{
+				"id": "main_content",
+				"label": "Introductory content",
+				"type": "textarea",
+				"placeholder": "Many words about your awesome site!"
+			}
+		]
+}
