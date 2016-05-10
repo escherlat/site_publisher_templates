@@ -6,7 +6,7 @@
 		"preview_image_path": "images/preview.png"
 		},
 		"fields": [{
-			"id": "header",
+			"id": "title",
 			"label": "Site Title",
 			"type": "text",
 			"placeholder": "Provide a title for your site"
