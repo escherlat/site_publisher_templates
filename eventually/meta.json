@@ -1,0 +1,21 @@
+{
+	"information": {
+		"id": "eventually",
+		"name": "Quote",
+		"description": "A single statement website",
+		"preview_image_path": "images/preview.png"
+		},
+		"fields": [{
+			"id": "header",
+			"label": "Site Title",
+			"type": "text",
+			"placeholder": "Provide a title for your site"
+			},
+			{
+				"id": "description",
+				"label": "Quote",
+				"type": "text",
+				"placeholder": "An earth shattering quote"
+			}
+		]
+}
